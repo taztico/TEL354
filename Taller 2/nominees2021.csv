@@ -1,0 +1,9 @@
+Film,Year,Rating_IMDB,Rating_rtaudience,Rating_rtcritic,Oscarstat_totalnoms,Release_Q1,Release_Q2,Release_Q3,Release_Q4,Nom_Oscar_bestdirector,Nom_DGA,Nom_BAFTA,Win_DGA,Win_BAFTA,Nom_GoldenGlobe_bestcomedy,Nom_GoldenGlobe_bestdrama,Win_GoldenGlobe_bestcomedy,Win_GoldenGlobe_bestdrama,Genre_action,Genre_biography,Genre_crime,Genre_comedy,Genre_drama,Genre_horror,Genre_fantasy,Genre_sci-fi,Genre_mystery,Genre_music,Genre_romance,Genre_history,Genre_war,Genre_filmnoir,Genre_thriller,Genre_adventure,Genre_family,Genre_sport,Genre_western,MPAA_G,MPAA_PG,MPAA_PG-13,MPAA_R,MPAA_NC-17,Nowin_Criticschoice,Win_Criticschoice,Nonom_Criticschoice,Nom_Criticschoice,Nowin_SAG_bestcast,Win_SAG_bestcast,Nonom_SAG_bestcast,Nom_SAG_bestcast,Nowin_PGA,Win_PGA,Nonom_PGA,Nom_PGA
+The Father,2021,8.3,90,98,6,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,1,0,1,0
+Judas and the Black Messiah,2021,7.6,95,96,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,0,0,1
+Mank,2021,7.0,60,83,10,0,0,0,1,1,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1,0,1,0,0,1
+Minari,2021,7.6,88,98,6,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,1,0,0,1
+Nomadland,2021,7.5,82,94,6,1,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1
+Promising Young Woman,2021,7.5,88,91,5,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1,0,1,0,0,1
+Sound of Metal,2021,7.8,91,97,6,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1,0,1,0,0,1
+The Trial of the Chicago 7,2021,7.8,91,89,6,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,1,1,0,0,1
